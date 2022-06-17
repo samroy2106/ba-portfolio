@@ -2,10 +2,10 @@
   "main": {
     "name": "Samarth Roy",
     "location": "Toronto",
-    "occupation": "Developer",
-    "description": "New graduate keen on gaining experience in Development in the Greater Toronto Area. Thank you for taking the time to visit my portfolio",
+    "occupation": "Business Analyst",
+    "description": "New graduate keen on gaining experience in Business Analysis in the Greater Toronto Area. Thank you for taking the time to visit my portfolio",
     "image": "profilepic.jpg",
-    "bio": "I am a Computer Science (major) and Business (minor) graduate with coding experience in Java, Javascript, Python, PHP, and C. My way of working is methodical and meticulous. Quick on the uptake of ideas, business requirements, and technologies, I strive to provide value by adapting quickly and maintaining a strong work ethic. As a recent graduate ready to enter the software industry, I am interested in learning and practicing both front-end and back-end development, and I am confident to be up to the task.",
+    "bio": "I am a Computer Science (major) and Business (minor) graduate with some Business Analysis experience in an educational settings, as well as considerable coding experience in multiple languages. My way of working is methodical and meticulous. Quick on the uptake of ideas, business requirements, and technologies, I strive to provide value by adapting quickly and maintaining a strong work ethic. As a recent graduate eager to make a positive impact, I am interested in learning and practicing business analysis and business analytics, and I am confident to be up to the task.",
     "contactmessage": "Want to chat? Please send me a message and I'll respond at the earliest.",
     "email": "samarthroy2106@gmail.com",
     "phone": "(778) 922-6190",
@@ -50,32 +50,32 @@
     ],
     "skills": [
       {
-        "name": "Java",
+        "name": "Requirements Elicitation",
+        "level": "70%"
+      },
+      {
+        "name": "Process Modelling",
         "level": "75%"
       },
       {
-        "name": "Javascript",
-        "level": "65%"
+        "name": "Requirements Documentation",
+        "level": "85%"
       },
       {
-        "name": "Python",
+        "name": "Use Case Creation",
         "level": "70%"
       },
       {
-        "name": "PHP",
+        "name": "UI Modelling",
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Databases",
+        "level": "75%"
       },
       {
-        "name": "React",
-        "level": "55%"
-      },
-      {
-        "name": "Node.js",
-        "level": "70%"
+        "name": "Coding",
+        "level": "85%"
       }
     ]
   },
